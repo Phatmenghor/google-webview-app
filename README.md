@@ -23,3 +23,19 @@ Clone the repository:
 git clone https://github.com/yourusername/react-native-webview-google
 cd react-native-webview-google
 ```
+
+# Using npm
+npm install
+
+# OR using yarn
+yarn install
+
+
+# For iOS
+expo start --ios
+
+# For Android
+expo start --android
+
+# For Web
+expo start --web
