@@ -25,17 +25,37 @@ cd react-native-webview-google
 ```
 
 # Using npm
+
+```bash
 npm install
+```
 
 # OR using yarn
-yarn install
 
+```bash
+yarn install
+```
 
 # For iOS
+
+# For start
+
+```bash
+expo start
+```
+
+```bash
 expo start --ios
+```
 
 # For Android
+
+```bash
 expo start --android
+```
 
 # For Web
+
+```bash
 expo start --web
+```
