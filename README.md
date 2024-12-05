@@ -20,7 +20,7 @@ This project implements a React Native application that displays the Google home
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-native-webview-google
+git clone https://github.com/Phatmenghor/google-webview-app.git
 cd react-native-webview-google
 ```
 
