@@ -24,21 +24,17 @@ git clone https://github.com/yourusername/react-native-webview-google
 cd react-native-webview-google
 ```
 
-# Using npm
+# Using npm or yarn for install dependency
 
 ```bash
 npm install
 ```
 
-# OR using yarn
-
 ```bash
 yarn install
 ```
 
-# For iOS
-
-# For start
+# For run application
 
 ```bash
 expo start
@@ -48,13 +44,9 @@ expo start
 expo start --ios
 ```
 
-# For Android
-
 ```bash
 expo start --android
 ```
-
-# For Web
 
 ```bash
 expo start --web
